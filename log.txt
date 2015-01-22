@@ -1,0 +1,16 @@
+123456, 12, login
+123490, 12, logout
+123000, 16, login
+123010, 19, login
+124490, 19, logout
+125490, 16, logout
+140000, 12, login
+150000, 12, logout
+223010, 19, login
+524490, 19, logout
+623010, 1, login
+10024490, 1, logout
+10030000, 2, login
+10040000, 2, logout
+10050000, 3, login
+10060000, 3, logout
